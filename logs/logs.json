@@ -1,0 +1,242 @@
+[
+    {
+        "Data": "06/02/2026 14:21:59",
+        "Usuario": "Patricia2009",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:21:59",
+        "Usuario": "Mateus34",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:21:59",
+        "Usuario": "Patricia2009",
+        "Status": "SUCESSO"
+    },
+    {
+        "Data": "06/02/2026 14:22:00",
+        "Usuario": "Admin",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:22:00",
+        "Usuario": "Patricia2009",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:22:01",
+        "Usuario": "Patricia2009",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:10",
+        "Usuario": "EdinaRamos",
+        "Status": "SUCESSO"
+    },
+    {
+        "Data": "06/02/2026 14:29:10",
+        "Usuario": "EduardoRamos",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:10",
+        "Usuario": "Mauricio23",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:10",
+        "Usuario": "Mateus78",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:10",
+        "Usuario": "Leones45",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:11",
+        "Usuario": "Marcos33",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:19",
+        "Usuario": "EduardoRamos",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:19",
+        "Usuario": "Patricia17",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:19",
+        "Usuario": "Mauricio23",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:20",
+        "Usuario": "EdinaRamos",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:20",
+        "Usuario": "EdinaRamos",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:20",
+        "Usuario": "Mateus34",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:23",
+        "Usuario": "Mateus78",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:23",
+        "Usuario": "Patricia17",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:24",
+        "Usuario": "EdinaRamos",
+        "Status": "SUCESSO"
+    },
+    {
+        "Data": "06/02/2026 14:29:24",
+        "Usuario": "Patricia17",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:24",
+        "Usuario": "Marcos33",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:24",
+        "Usuario": "Patricia2009",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:27",
+        "Usuario": "Marcos33",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:27",
+        "Usuario": "Mauricio23",
+        "Status": "SUCESSO"
+    },
+    {
+        "Data": "06/02/2026 14:29:28",
+        "Usuario": "EdinaRamos",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:28",
+        "Usuario": "Mateus34",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:28",
+        "Usuario": "Leones45",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:28",
+        "Usuario": "EdinaRamos",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:37",
+        "Usuario": "Admin",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:37",
+        "Usuario": "Mateus78",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:38",
+        "Usuario": "Patricia17",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:38",
+        "Usuario": "Marcos33",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:38",
+        "Usuario": "Mateus34",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:29:38",
+        "Usuario": "Mateus78",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:03",
+        "Usuario": "Mateus34",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:04",
+        "Usuario": "Admin",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:04",
+        "Usuario": "Marcos33",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:04",
+        "Usuario": "Mauricio23",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:04",
+        "Usuario": "Leones45",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:04",
+        "Usuario": "EdinaRamos",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:07",
+        "Usuario": "Patricia2009",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:07",
+        "Usuario": "Patricia2009",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:07",
+        "Usuario": "Mateus78",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:08",
+        "Usuario": "Admin",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:08",
+        "Usuario": "EdinaRamos",
+        "Status": "FALHA"
+    },
+    {
+        "Data": "06/02/2026 14:30:08",
+        "Usuario": "Patricia17",
+        "Status": "FALHA"
+    }
+]
